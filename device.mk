@@ -108,7 +108,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Charging LED property
 PRODUCT_PROPERTY_OVERRIDES += \
-        persist.sys.enable-charging-led=0
+        persist.sys.enable-charging-led=1
 
 # Live Wallpapers
 PRODUCT_PACKAGES += \
